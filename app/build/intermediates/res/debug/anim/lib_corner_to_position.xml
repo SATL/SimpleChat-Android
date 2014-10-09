@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate 
+        android:fromXDelta="-100%p"
+        android:fromYDelta="-100%p"
+        android:toYDelta="0%p"
+        android:toXDelta="0%p"
+        android:duration="1000"
+        />
+
+</set>
+<!-- From: file:/E:/Programming/Android/AndroidStudio/Workspace/ChatDemoGCM/AZ_Library/src/main/res/anim/lib_corner_to_position.xml --><!-- From: file:/E:/Programming/Android/AndroidStudio/Workspace/ChatDemoGCM/app/build/intermediates/exploded-aar/ChatDemoGCM/AZ_Library/unspecified/res/anim/lib_corner_to_position.xml -->

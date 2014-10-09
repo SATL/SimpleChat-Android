@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator" >
+
+ <scale
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="250"
+        android:fromXScale="1"
+        android:fromYScale="1"
+        android:pivotX="100%p"
+        android:pivotY="0"
+        android:toXScale="0"
+        android:toYScale="0" 
+        android:fromYDelta="0"
+        android:toYDelta="-100%p"
+        android:fromXDelta="0"
+        android:toXDelta="100%p"
+        >
+    </scale>
+ 
+
+</set><!-- From: file:/E:/Programming/Android/AndroidStudio/Workspace/ChatDemoGCM/AZ_Library/src/main/res/anim/lib_out_main_menu.xml -->

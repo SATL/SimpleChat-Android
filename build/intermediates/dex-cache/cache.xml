@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\debug\classes-e406f0b87a18aca75731d1e3cb750e8e72c2ed04.jar"
+        jar="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\exploded-aar\ChatDemoGCM\AZ_Library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b96e50222decc10170c83437d07e906205864cbe"/>
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\release\classes-804a099fc8221ab71b6a70c828c534d5e5c4f613.jar"
+        jar="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\release\classes-a143de0c3006536f1fcb74b1303ea7990ed9c4ab.jar"
+        jar="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0-ec0d9ec641104622aa6897f3c926317f473ef571.jar"
+        jar="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0-9991d483cd54958038d9b78fd13787b5b274f698.jar"
+        jar="E:\Programming\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\release\gson-2.3-33e9808287f609d08f47f4db45c6edc71095f2cb.jar"
+        jar="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\libs\gson-2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\release\classes-67f9509b5d18d1668a6981870c6c8d5e0ac3c153.jar"
+        jar="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.2.08\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+    <item
+        dex="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\pre-dexed\release\glide-2.0.5-0684ae629c8ec9cf9176b78056bdcdda76ab6925.jar"
+        jar="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\app\build\intermediates\exploded-aar\ChatDemoGCM\AZ_Library\unspecified\libs\glide-2.0.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c488fb0f5ac03dc601ca0e4fd411629f2594c45f"/>
+
+</pre-dex-items>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_gravity="right"
+    android:layout_width="wrap_content"
+    >
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp"
+
+    android:layout_gravity="right"
+    android:gravity="right"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginRight="20dp"
+        android:gravity="right"
+        android:text="Hola "
+        android:id="@+id/message" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="time"
+        android:textColor="@color/timecolor"
+        android:layout_gravity="right"
+        android:id="@+id/time"
+        />
+</LinearLayout>
+</RelativeLayout><!-- From: file:/E:/Programming/Android/AndroidStudio/Workspace/ChatDemoGCM/app/src/main/res/layout/message_adapter_own.xml -->

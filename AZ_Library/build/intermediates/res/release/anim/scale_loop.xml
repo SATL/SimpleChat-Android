@@ -1,0 +1,15 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <scale
+        android:duration="1000"
+        android:fromXScale="1"
+        android:fromYScale="1"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:repeatCount="infinite"
+        android:repeatMode="reverse"
+        android:startOffset="0"
+        android:toXScale="0.8"
+        android:toYScale="0.8" />
+
+</set><!-- From: file:/E:/Programming/Android/AndroidStudio/Workspace/ChatDemoGCM/AZ_Library/src/main/res/anim/scale_loop.xml -->

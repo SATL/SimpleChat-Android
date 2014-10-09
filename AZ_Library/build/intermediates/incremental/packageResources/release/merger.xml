@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Libreria
+                </string>
+            </file>
+            <file
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="lib_corner_to_position"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_corner_to_position.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_exit"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_exit.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_in"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_in_main_menu"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_in_main_menu.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_out_main_menu"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_out_main_menu.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_fadeout"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_fadeout.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_left_out"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_left_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_right_in"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_right_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_slidedown"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_slidedown.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="scale_loop"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\scale_loop.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_left_in"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_left_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_right_out"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_right_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="lib_out_right_corner"
+                path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\main\res\anim\lib_out_right_corner.xml"
+                qualifiers=""
+                type="anim" />
+        </source>
+        <source path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\build\generated\res\rs\release" />
+        <source path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="E:\Programming\Android\AndroidStudio\Workspace\ChatDemoGCM\AZ_Library\src\release\res" />
+    </dataSet>
+
+</merger>
